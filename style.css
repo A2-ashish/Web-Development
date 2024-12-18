@@ -1,0 +1,7 @@
+body {
+    background-color: #080808; /* Light blue background */
+    background-image: url('path/to/your/background-image.jpg'); /* Replace with your image path */
+    background-size: cover; /* Make sure the image covers the whole page */
+    background-position: center;
+    background-repeat: no-repeat;
+}
